@@ -1,0 +1,5 @@
+pytorch-saliency
+Real Time Image Saliency for Black Box Classiﬁers
+https://github.com/PiotrDabkowski/pytorch-saliency
+
+--------------------------------------------------------------x
